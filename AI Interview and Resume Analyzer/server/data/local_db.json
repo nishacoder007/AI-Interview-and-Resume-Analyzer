@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "_id": "1779558580819",
+      "id": "1779558580819",
+      "createdAt": "2026-05-23T17:49:40.819Z",
+      "name": "Nisha Saini",
+      "email": "nsnishasaini8958@gmail.com",
+      "password": "$2a$10$cydkKyw2C77LyYyLqRZ0C.a3Lm8Gt4KX2cLQOBig/rIP8lej1Db7K",
+      "role": "user",
+      "title": "Software Engineer",
+      "bio": "Passionate developer interested in building modern web applications and optimizing systems.",
+      "experienceLevel": "Mid-Level",
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript"
+      ]
+    }
+  ],
+  "resumes": [
+    {
+      "_id": "1779558608295",
+      "id": "1779558608295",
+      "createdAt": "2026-05-23T17:50:08.295Z",
+      "userId": "1779558580819",
+      "fileName": "Nisha resume (5) (1).pdf",
+      "resumeUrl": "/uploads/resume-1779558606089-269903917.pdf",
+      "resumeText": "\n\nNISHA SAINI \nFull Stack Developer \n +91-8958210330  nsnishasaini8958@gmail.com \n \n \n \n \nlinkedin.com/in/nisha-saini  \nSummary \nI am a Full Stack Developer and IoT Engineering student with a strong foundation in HTML, CSS, JavaScript, React, Node.js, Express, \nMongoDB, and IoT-based technologies. Skilled in designing, developing, and deploying responsive web applications using MVC \narchitecture and REST APIs. Passionate about building scalable, user-focused solutions and smart automation systems that solve \nreal-world problems through both software and hardware integration. \nSkills  \nLanguages: JavaScript, Java, Python, Embedded C \nFrontend: HTML5, CSS3, React.js, Next.js, Tailwind CSS \nBackend: Node.js, Express.js, REST APIs, JWT Authentication \nDatabases: MongoDB, MySQL \nIoT & Hardware: Arduino UNO, NodeMCU ESP8266, Sensors, Smart Home Automation \nTools: Git, GitHub, Postman, VS Code \nExperience \nGenerative AI Intern June 2025 – July 2025 \nPBEL (Virtual Internship) – Remote Tools: Python, Hugging Face API, React, Node.js, GitHub \n– Improved and deployed AI-based applications integrating Hugging Face generative models for image and text generation. \n– Built interactive front-end interfaces using React and Tailwind CSS. \n– Applied prompt engineering techniques to improve model outputs across multiple use cases. \n– Collaborated with a remote team to design, test, and document AI workflows. \nProjects \nSmart Home Automation | Arduino, Sensors, Programming Language (Embedded C) Dec 2025 – April 2026 \n– Designed and developed an IoT-based Smart Home Automation System for remote monitoring and control of home \nappliances. \n– Integrated microcontrollers such as Arduino Uno and NodeMCU ESP8266 for device control. \n– Utilized sensors (temperature, motion, light) to enable automation and smart decision-making. \n– Developed a user interface via mobile/web app for centralized control of appliances. \n \n      Wonderlust – Airbnb Clone Website| EJS, Node.js, Express, MongoDB Apr 2025 – Jun 2025 \n– Built a full-stack web application inspired by Airbnb for browsing, adding, and reviewing rental listings. \n– Implemented MVC architecture with Express.js, EJS, and MongoDB. \n– Implemented Cloudinary API for secure image uploads and user authentication with CRUD features. \n– Deployed on Render with responsive UI for cross-device compatibility. \nCertifications \n• CISCO: Internet of Things \n• PCAP: Programming Essential Python \n• DUCAT: Android Development \n• NASSCOM: Introduction to Cybersecurity \n• IBM: Generative AI \n• DUCAT: Advanced IoT \n \nEducation \nB. Tech in Computer Science and Engineering (IoT) Graduated: 2026 \nMoradabad Institute of Technology, Moradabad SGPA: 8.05 ",
+      "atsScore": 98,
+      "missingSkills": [
+        "REDUX",
+        "TYPESCRIPT",
+        "DOCKER",
+        "AWS"
+      ],
+      "suggestions": [
+        "Add direct quantitative metrics (e.g., 'Improved database speed by 35%' instead of 'Optimized backend database').",
+        "Ensure contact information (GitHub, LinkedIn) is placed prominently at the top header.",
+        "Expand descriptions of collaborative tools like Git, Docker, and CI/CD pipelines to pass automated filters."
+      ],
+      "improvements": [
+        "Revise grammatical action verbs (use 'Implemented', 'Architected', 'Orchestrated' instead of 'responsible for').",
+        "Structure sections cleanly with professional styling - avoid double spaces and irregular margins.",
+        "Include a dedicated Technical Skills grid near the top for quick scanner parsing."
+      ],
+      "bestRoleSuggestions": [
+        "MERN Stack Developer",
+        "Frontend Developer",
+        "Backend Engineer",
+        "Full Stack Developer"
+      ]
+    },
+    {
+      "_id": "1779561335663",
+      "id": "1779561335663",
+      "createdAt": "2026-05-23T18:35:35.663Z",
+      "userId": "1779558580819",
+      "fileName": "Jitender_Resume (8).pdf",
+      "resumeUrl": "/uploads/resume-1779561333705-807536345.pdf",
+      "resumeText": "\n\nJitender Singh\n +91-8630930158# jitendersingh75053@gmail.comï linkedin.com/in/jitender\nSummary\nFull Stack Developer skilled in MERN stack (MongoDB, Express, React, Node.js) with hands-on experience in building scalable web\napplications.  Experienced in designing REST APIs, implementing MVC architecture, and creating responsive UI. Focused on\ndeveloping efficient, user-centric solutions for real-world problems.\nTechnical Skills\n• Languages:  JavaScript, HTML, CSS\n• Frontend Development:  React.js, Tailwind CSS, Responsive UI Design\n• Backend Development:  Node.js, Express.js, REST API Development, Authentication (JWT, OTP-based Email Verification)\n• Databases:  MongoDB, MySQL\n• Core Features Implemented:  User Authentication, OTP Verification, Booking Systems, Expense Tracking, Budget Alerts,\nDate Range Filtering, Resume Analysis, Job Recommendation Systems, Real-time Result Evaluation\n• Tools & Technologies:  Git, GitHub, Postman, API Integration, MVC Architecture\nExperience\nIBM - AI InternJune 2025 – July 2025\nPBEL (Virtual Internship)Remote\n•  Built and deployed AI-based applications using Hugging Face APIs for text and image generation tasks efficiently\n•  Developed responsive and interactive UI components using React and Tailwind CSS for better overall user experience\n•  Applied prompt engineering techniques to optimize model outputs across multiple real-world use cases\n•  Tested and refined AI models to ensure consistent performance and reliable output quality across applications\nProjects\nEventora – Event Booking PlatformFeb 2026 – Mar 2026\nReact, Node.js, Express, MongoDBGitHub\n•  Constructed a scalable full-stack event booking platform with seamless user registration, booking, and confirmation features\n•  Engineered OTP-based email verification system for secure authentication and reliable user validation across the entire platform\n•  Implemented a robust user authentication system with OTP-based email verification and secure account activation flow across\nthe platform\nSmart Expense TrackerJan 2026 – Feb 2026\nReact, Node.js, Express, MongoDBGitHub\n•  Developed a full-stack expense tracking application to efficiently monitor, analyze, and calculate detailed monthly user\nspending patterns\n•  Implemented advanced budget management feature with real-time alerts and notifications when expenses exceed predefined\nspending limits\n•  Enabled flexible date range filtering to efficiently analyze expenses between custom start and end dates\n•  Designed intuitive and interactive dashboard for tracking total expenses and improving overall financial insights\nSkillUp – Career Preparation PlatformFeb 2026 – Present\nReact, Node.js, Express, MongoDBGitHub\n•  Developed an all-in-one platform to help students prepare for placements with coding, aptitude, and reasoning modules\n•  Integrated real-time result evaluation system to provide instant feedback and performance analysis\n•  Built resume analysis feature to evaluate user resumes and recommend suitable job opportunities\n•  Centralized multiple preparation resources into a single platform to streamline student learning and tracking\nWeather AppJan 2026\nJavaScript, API Integration, HTML, CSSGitHub\n•  Developed a weather application to fetch real-time weather data based on user-input city efficiently\n•  Integrated third-party API for live updates including temperature, humidity, and detailed weather conditions\n•  Designed a responsive and user-friendly interface for better overall usability across multiple devices\nEducation\nB.Tech in Computer Science2022-2026\nMoradabad Institute of Technology\nIntermediate (Class XII)2021-2022\nP.S.S Inter College, Amroha",
+      "atsScore": 98,
+      "missingSkills": [
+        "REDUX",
+        "TYPESCRIPT",
+        "DOCKER",
+        "AWS"
+      ],
+      "suggestions": [
+        "Add direct quantitative metrics (e.g., 'Improved database speed by 35%' instead of 'Optimized backend database').",
+        "Ensure contact information (GitHub, LinkedIn) is placed prominently at the top header.",
+        "Expand descriptions of collaborative tools like Git, Docker, and CI/CD pipelines to pass automated filters."
+      ],
+      "improvements": [
+        "Revise grammatical action verbs (use 'Implemented', 'Architected', 'Orchestrated' instead of 'responsible for').",
+        "Structure sections cleanly with professional styling - avoid double spaces and irregular margins.",
+        "Include a dedicated Technical Skills grid near the top for quick scanner parsing."
+      ],
+      "bestRoleSuggestions": [
+        "MERN Stack Developer",
+        "Frontend Developer",
+        "Backend Engineer",
+        "Full Stack Developer"
+      ]
+    },
+    {
+      "_id": "1779561398248",
+      "id": "1779561398248",
+      "createdAt": "2026-05-23T18:36:38.248Z",
+      "userId": "1779558580819",
+      "fileName": "Nisha saini Resume.pdf",
+      "resumeUrl": "/uploads/resume-1779561396203-269945180.pdf",
+      "resumeText": "\n\n \n \n \n \nCareer Objective \nNisha Saini \n+91-8958210330  nsnishasaini8958@gmail.com linkedin.com/in/ nisha saini \n \n \nA highly dedicated and organized individual seeking a challenging position to gain hands-on experience, enhance \ntechnical expertise, and contribute to organizational growth. \nEducation \nMoradabad Institute of Technology (AKTU) 2022 – 2026 \nB.Tech in Computer Science and Engineering (IoT) Moradabad, Uttar Pradesh \nModern Gurukul Inter College 2021 – 2022 \nClass XII (UP Board) — Percentage: 71% Amroha, Uttar Pradesh \nModern Gurukul Inter College 2019 – 2020 \nClass X (UP Board) — Percentage: 79% Amroha, Uttar Pradesh \nExperience \nIBM Virtual Internship – Generative AI July 2025 \nIBM Developer Skills Network Virtual \n– Complete PBEL-equivalent Virtual Internship in Generative AI. \n– Gained hands-on experience with Prompt Engineering, LLMs, and AI application. \n– Worked on structured learning modules and project-based exercises designed by IBM experts. \n– Certificate validated by IBM Technology Expert Labs. \n \nProjects \nPlant Monitoring System \nArduino, Sensors, Embedded C \n– Built a system to monitor real-time plant health using moisture and temperature sensors. \n– Enabled automated data collection with Arduino and Embedded C. \nSmart Door Lock System \nArduino, Sensors, Embedded C \n- Designed and implemented a smart door lock system with IoT integration for secure, keyless entry. \n- Utilized sensors and mobile app control to enhance home security and user convenience. \n    Certifications \n– \nCISCO – Internet of Things\n \n– \nPCAP – Programming Essentials in Python\n \n– \nDUCAT – Android Development \n \n– \nIBM- Generative AI Certification\n \n– \nNASSCOM-Introduction to Cybersecurity\n \n \nTechnical Skills \n- \nProgramming: C, Java, Python\n \n- \nWeb Technologies: HTML, CSS\n \n- \nIoT &Embedded System: Arduino, Sensors, Embedded C\n \n- \nAI/ML: Generative AI, Prompt Engineering, LLMs\n \n \n     Achievements & Extracurricular \n- \nParticipated at State Level in Kabaddi and volley ball.\n \n- \nActive learner with hands-on projects in IoT and Embedded Systems\n \n \n ",
+      "atsScore": 60,
+      "missingSkills": [
+        "REACT",
+        "NODE",
+        "EXPRESS",
+        "MONGODB"
+      ],
+      "suggestions": [
+        "Add direct quantitative metrics (e.g., 'Improved database speed by 35%' instead of 'Optimized backend database').",
+        "Ensure contact information (GitHub, LinkedIn) is placed prominently at the top header.",
+        "Expand descriptions of collaborative tools like Git, Docker, and CI/CD pipelines to pass automated filters."
+      ],
+      "improvements": [
+        "Revise grammatical action verbs (use 'Implemented', 'Architected', 'Orchestrated' instead of 'responsible for').",
+        "Structure sections cleanly with professional styling - avoid double spaces and irregular margins.",
+        "Include a dedicated Technical Skills grid near the top for quick scanner parsing."
+      ],
+      "bestRoleSuggestions": [
+        "Software Engineer",
+        "Web Developer"
+      ]
+    }
+  ],
+  "interviews": [
+    {
+      "_id": "1779559222885",
+      "id": "1779559222885",
+      "createdAt": "2026-05-23T18:00:22.885Z",
+      "userId": "1779558580819",
+      "jobType": "MERN Stack Developer",
+      "questions": [
+        {
+          "id": 1,
+          "questionText": "Can you explain the differences between virtual DOM and real DOM in React, and how React handles state updates?",
+          "category": "technical"
+        },
+        {
+          "id": 2,
+          "questionText": "How do you secure JWT authentication in a MERN stack application, and where should you store the token on the client-side?",
+          "category": "technical"
+        },
+        {
+          "id": 3,
+          "questionText": "Describe the role of middleware in Express.js. How would you write a custom error-handling middleware?",
+          "category": "technical"
+        },
+        {
+          "id": 4,
+          "questionText": "What are some indexing strategies in MongoDB to optimize slow-running queries, and how does Mongoose support them?",
+          "category": "technical"
+        },
+        {
+          "id": 5,
+          "questionText": "Tell me about a challenging bug you faced in a React or Node project, how you diagnosed it, and what you learned.",
+          "category": "behavioral"
+        }
+      ],
+      "answers": [
+        {
+          "questionId": 1,
+          "userAnswerText": "In React, the Real DOM is the actual webpage structure shown in the browser, and updating it directly is slow because the browser re-renders the page. React uses a Virtual DOM, which is a lightweight copy of the Real DOM. When state changes using setState() or useState, React first updates the Virtual DOM, compares it with the previous version (diffing), and then updates only the changed parts in the Real DOM (reconciliation). This makes React faster and improves application performance."
+        },
+        {
+          "questionId": 2,
+          "userAnswerText": "In a MERN stack application, JWT authentication is secured by generating tokens on the server after successful login and verifying them on protected routes using middleware. Passwords should be hashed using libraries like bcrypt, and JWTs should have an expiration time for better security. On the client-side, the token is best stored in HTTP-only cookies because they are more secure and protect against XSS attacks. Storing tokens in localStorage is easier but less secure since JavaScript can access them."
+        },
+        {
+          "questionId": 3,
+          "userAnswerText": "Middleware in Express.js is a function that runs between the request and response cycle. It is used to process requests, execute code, authenticate users, parse data, log requests, or handle errors before sending the response to the client. Middleware functions have access to req, res, and next() objects."
+        },
+        {
+          "questionId": 4,
+          "userAnswerText": "In MongoDB, indexing improves query performance by helping the database find data faster instead of scanning the entire collection. Common indexing strategies include single-field indexes for frequently searched fields, compound indexes for queries using multiple fields, text indexes for search functionality, and unique indexes to prevent duplicate values. Proper indexing reduces query execution time and improves application performance.\n\nMongoose supports indexes using schema definitions. Developers can create indexes directly in the schema using index: true, unique: true, or the .index() method.\n"
+        },
+        {
+          "questionId": 5,
+          "userAnswerText": "In one React and Node.js project, I faced a bug where the UI was not updating after an API call, even though the backend was sending correct data. After debugging, I found that the state was being updated directly instead of using the React state setter function, so React was not re-rendering the component properly. I diagnosed the issue using browser console logs and React DevTools. I fixed it by updating the state immutably using setState/useState. From this, I learned the importance of immutable state updates, proper debugging techniques, and using developer tools effectively."
+        }
+      ],
+      "score": 95,
+      "feedback": {
+        "technicalScore": 95,
+        "communicationScore": 96,
+        "confidenceScore": 97,
+        "problemSolvingScore": 93,
+        "strengths": [
+          "Demonstrates solid conceptual knowledge of MERN stack routing and database schema design.",
+          "Good structure in verbal descriptions of technical debugging procedures.",
+          "Consistently attempts to explain practical trade-offs (e.g., state vs props, SQL vs NoSQL)."
+        ],
+        "weaknesses": [
+          "Descriptions of production deployment optimizations (e.g., CDN, indexing cache) could be deeper.",
+          "Minor blurriness in explaining internal JavaScript concurrency (Event Loop phases)."
+        ],
+        "improvementSuggestions": [
+          "Describe scaling techniques (e.g., Redis caching, database replication) to impress senior interviewers.",
+          "Perfect the definitions of microtasks vs macrotasks inside the Event Loop."
+        ]
+      }
+    }
+  ]
+}
